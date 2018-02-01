@@ -14,7 +14,7 @@ Demo can be excuted as follows:
 		
 We provide a part of MPI-Sintel sequences and corresponding edge maps, you can run demo by typing 
 		
-		IHBPFlow images edges results'
+		IHBPFlow images edges results
 
 Results will be saved in 'results' folder.
 Code is coming soon.
