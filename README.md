@@ -12,6 +12,9 @@ Demo can be excuted as follows:
 
 		IHBPFlow <imgs_dir> <edges_dir> <result_dir>
 		
-We provide a part of MPI-Sintel sequences and corresponding edge maps, you can run demo by 
-typing 'IHBPFlow images edges results'. Results will be saved in 'results' folder.
+We provide a part of MPI-Sintel sequences and corresponding edge maps, you can run demo by typing 
+		
+		IHBPFlow images edges results'
+
+Results will be saved in 'results' folder.
 Code is coming soon.
